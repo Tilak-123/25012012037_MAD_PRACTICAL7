@@ -88,3 +88,11 @@ app/src/main/java/com/example/a25012012037_mad_practical7/
    - Click the **Map button** on any contact item to open contact details and view location on Google Maps.
    - Click the **Delete icon** to remove an item from the SQLite database.
    - Tap the **Floating Action Button (Refresh)** to fetch and add new/updated contacts from the API.
+
+---
+
+## 👨‍💻 Developer Details
+
+- **Developer Name:** Tilak Pandya
+- **Enrollment No:** 25012012037
+
